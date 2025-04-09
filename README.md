@@ -40,6 +40,7 @@ php artisan serve
 | [`TEAM_WORKFLOW.md`](./docs/TEAM_WORKFLOW.md) | Panduan kolaborasi tim, branching, PR, dan user stories |
 | [`DEVELOPMENT_GUIDE.md`](./docs/DEVELOPMENT_GUIDE.md) | Panduan teknis developer (cara generate controller, model, view, dll) |
 | [`INSTALLATION_GUIDE.md`](./docs/INSTALLATION_GUIDE.md) | Panduan setup PHP, Composer, dan Laravel lokal |
+| https://trello.com/invite/b/67f5e4a603ea6b08217a91c1/ATTIa87ba6c9fe3fbb0ad63f565504550900E5E416FE/management | Trello |
 
 ---
 
